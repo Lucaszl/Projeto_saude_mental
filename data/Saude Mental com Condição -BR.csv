@@ -1,0 +1,201 @@
+ID,Idade,Setor,TrabalhoRemoto,HorasPorSemana,ProblemasSono,IsolamentoSocial,DiscriminaÃ§Ã£oSentida,CondicaoPsicologica
+1,27,LogÃ­stica,Sim,47,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+2,54,Pesquisa,NÃ£o,50,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+3,45,AdministraÃ§Ã£o,NÃ£o,48,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+4,23,Financeiro,Sim,35,Sim,Alto,Alta,SÃ­ndrome de Burnout
+5,27,Design,NÃ£o,49,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+6,48,Vendas,Sim,42,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+7,53,AdministraÃ§Ã£o,NÃ£o,57,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+8,33,Tecnologia,Sim,38,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+9,48,Atendimento,NÃ£o,36,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+10,53,JurÃ­dico,Sim,39,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+11,47,Rh,NÃ£o,44,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+12,48,Comercial,NÃ£o,59,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+13,51,Financeiro,NÃ£o,55,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+14,27,Comercial,NÃ£o,40,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+15,37,Rh,NÃ£o,48,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+16,26,Marketing,Sim,50,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+17,39,AdministraÃ§Ã£o,NÃ£o,40,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+18,43,Comercial,NÃ£o,41,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+19,27,EducaÃ§Ã£o,NÃ£o,46,Sim,Alto,Alta,SÃ­ndrome de Burnout
+20,55,Financeiro,Sim,40,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+21,48,Marketing,Sim,48,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+22,33,LogÃ­stica,Sim,52,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+23,49,Marketing,NÃ£o,54,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+24,36,Design,Sim,50,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+25,38,SaÃºde,NÃ£o,45,Sim,Alto,Alta,SÃ­ndrome de Burnout
+26,40,Pesquisa,NÃ£o,39,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+27,26,Tecnologia,NÃ£o,37,Sim,Alto,Alta,SÃ­ndrome de Burnout
+28,46,Pesquisa,NÃ£o,60,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+29,43,Pesquisa,Sim,53,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+30,27,Financeiro,NÃ£o,38,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+31,34,AdministraÃ§Ã£o,Sim,50,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+32,53,Pesquisa,Sim,35,Sim,Alto,Alta,SÃ­ndrome de Burnout
+33,28,AdministraÃ§Ã£o,Sim,40,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+34,50,AdministraÃ§Ã£o,Sim,43,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+35,29,SaÃºde,Sim,50,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+36,40,Vendas,NÃ£o,54,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+37,43,Atendimento,NÃ£o,38,Sim,Alto,Alta,SÃ­ndrome de Burnout
+38,53,Financeiro,Sim,56,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+39,23,SaÃºde,NÃ£o,40,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+40,51,LogÃ­stica,Sim,50,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+41,37,AdministraÃ§Ã£o,Sim,52,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+42,52,Design,NÃ£o,47,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+43,44,Rh,Sim,51,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+44,31,Rh,Sim,60,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+45,38,Vendas,Sim,48,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+46,45,JurÃ­dico,Sim,56,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+47,54,Tecnologia,Sim,55,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+48,36,LogÃ­stica,NÃ£o,43,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+49,54,SaÃºde,NÃ£o,43,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+50,48,Atendimento,NÃ£o,35,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+51,37,LogÃ­stica,NÃ£o,58,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+52,33,Tecnologia,Sim,47,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+53,52,Tecnologia,NÃ£o,47,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+54,47,Atendimento,Sim,41,Sim,Moderado,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+55,45,EducaÃ§Ã£o,NÃ£o,42,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+56,53,Rh,NÃ£o,41,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+57,37,Comercial,NÃ£o,47,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+58,30,JurÃ­dico,Sim,40,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+59,34,Tecnologia,NÃ£o,45,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+60,39,JurÃ­dico,NÃ£o,54,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+61,33,Pesquisa,Sim,39,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+62,23,JurÃ­dico,NÃ£o,38,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+63,22,Pesquisa,Sim,49,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+64,26,Tecnologia,Sim,53,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+65,44,Vendas,Sim,47,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+66,50,SaÃºde,Sim,56,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+67,26,Vendas,Sim,43,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+68,28,SaÃºde,Sim,55,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+69,40,JurÃ­dico,Sim,55,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+70,52,JurÃ­dico,Sim,50,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+71,46,Rh,NÃ£o,36,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+72,46,Design,Sim,40,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+73,32,Marketing,NÃ£o,41,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+74,22,Design,Sim,53,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+75,44,Marketing,Sim,60,Sim,Moderado,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+76,46,Vendas,NÃ£o,58,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+77,55,Tecnologia,Sim,36,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+78,41,Tecnologia,NÃ£o,54,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+79,49,Financeiro,Sim,39,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+80,52,Vendas,NÃ£o,58,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+81,43,Design,Sim,43,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+82,38,JurÃ­dico,NÃ£o,50,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+83,24,EducaÃ§Ã£o,NÃ£o,50,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+84,42,LogÃ­stica,Sim,35,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+85,24,Tecnologia,NÃ£o,55,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+86,50,Pesquisa,Sim,60,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+87,28,Atendimento,NÃ£o,48,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+88,41,Pesquisa,Sim,36,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+89,23,Financeiro,NÃ£o,51,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+90,31,Comercial,NÃ£o,57,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+91,27,Financeiro,NÃ£o,51,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+92,50,JurÃ­dico,NÃ£o,45,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+93,42,Marketing,Sim,48,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+94,39,JurÃ­dico,NÃ£o,39,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+95,46,Pesquisa,Sim,52,Sim,Alto,Alta,SÃ­ndrome de Burnout
+96,46,EducaÃ§Ã£o,NÃ£o,57,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+97,33,Financeiro,NÃ£o,55,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+98,22,Vendas,Sim,54,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+99,54,Atendimento,Sim,43,Sim,Moderado,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+100,25,Vendas,Sim,45,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+101,41,Pesquisa,NÃ£o,38,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+102,22,Marketing,NÃ£o,55,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+103,52,Comercial,NÃ£o,40,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+104,42,Vendas,NÃ£o,45,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+105,25,AdministraÃ§Ã£o,Sim,56,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+106,55,Marketing,NÃ£o,57,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+107,37,AdministraÃ§Ã£o,NÃ£o,35,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+108,33,Comercial,Sim,53,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+109,30,Design,NÃ£o,45,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+110,24,JurÃ­dico,NÃ£o,48,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+111,22,Tecnologia,Sim,55,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+112,28,Vendas,NÃ£o,50,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+113,44,Pesquisa,Sim,51,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+114,36,Rh,Sim,36,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+115,35,LogÃ­stica,Sim,53,Sim,Moderado,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+116,39,Design,NÃ£o,49,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+117,52,LogÃ­stica,Sim,35,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+118,33,Comercial,Sim,56,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+119,50,AdministraÃ§Ã£o,Sim,42,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+120,38,Pesquisa,NÃ£o,53,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+121,24,AdministraÃ§Ã£o,Sim,59,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+122,22,Atendimento,Sim,49,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+123,39,JurÃ­dico,Sim,43,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+124,53,EducaÃ§Ã£o,NÃ£o,58,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+125,44,Vendas,Sim,37,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+126,42,Rh,Sim,47,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+127,52,AdministraÃ§Ã£o,NÃ£o,57,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+128,25,Comercial,Sim,47,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+129,53,Marketing,Sim,43,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+130,22,Vendas,Sim,40,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+131,47,LogÃ­stica,Sim,46,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+132,44,Atendimento,NÃ£o,36,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+133,28,Financeiro,NÃ£o,46,Sim,Moderado,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+134,22,Design,Sim,39,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+135,27,JurÃ­dico,NÃ£o,44,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+136,41,AdministraÃ§Ã£o,Sim,49,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+137,43,JurÃ­dico,Sim,50,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+138,41,Financeiro,NÃ£o,44,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+139,30,Vendas,Sim,51,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+140,25,Atendimento,Sim,53,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+141,25,Atendimento,Sim,35,Sim,Moderado,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+142,33,Pesquisa,Sim,42,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+143,42,Vendas,NÃ£o,51,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+144,47,Marketing,NÃ£o,41,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+145,30,JurÃ­dico,NÃ£o,58,Sim,Alto,Alta,SÃ­ndrome de Burnout
+146,27,SaÃºde,NÃ£o,50,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+147,51,SaÃºde,NÃ£o,51,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+148,36,Tecnologia,NÃ£o,47,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+149,53,Design,Sim,39,Sim,Alto,Alta,SÃ­ndrome de Burnout
+150,40,LogÃ­stica,NÃ£o,56,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+151,32,Vendas,Sim,57,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+152,23,Design,Sim,36,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+153,43,JurÃ­dico,NÃ£o,50,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+154,41,SaÃºde,Sim,48,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+155,48,Tecnologia,Sim,35,Sim,Alto,Alta,SÃ­ndrome de Burnout
+156,22,Vendas,Sim,54,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+157,34,Marketing,Sim,46,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+158,50,Marketing,Sim,47,Sim,Baixo,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+159,53,Comercial,NÃ£o,41,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+160,52,EducaÃ§Ã£o,Sim,44,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+161,28,Atendimento,NÃ£o,43,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+162,27,Vendas,Sim,47,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+163,33,LogÃ­stica,NÃ£o,49,Sim,Moderado,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+164,49,Comercial,Sim,49,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+165,36,JurÃ­dico,Sim,58,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+166,32,Rh,NÃ£o,48,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+167,23,Rh,NÃ£o,52,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+168,39,Comercial,Sim,51,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+169,39,LogÃ­stica,Sim,54,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+170,55,SaÃºde,Sim,45,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+171,38,Vendas,NÃ£o,57,Sim,Alto,Alta,SÃ­ndrome de Burnout
+172,43,Atendimento,Sim,54,NÃ£o,Alto,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+173,46,Financeiro,Sim,56,NÃ£o,Baixo,Alta,Sem condiÃ§Ã£o diagnosticada
+174,46,Vendas,Sim,44,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+175,52,AdministraÃ§Ã£o,Sim,35,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+176,52,SaÃºde,Sim,54,Sim,Alto,Alta,SÃ­ndrome de Burnout
+177,27,Design,Sim,59,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+178,36,SaÃºde,Sim,46,NÃ£o,Alto,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+179,52,EducaÃ§Ã£o,NÃ£o,48,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+180,47,Financeiro,NÃ£o,60,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+181,55,EducaÃ§Ã£o,NÃ£o,48,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+182,31,Pesquisa,NÃ£o,50,NÃ£o,Moderado,Alta,Fadiga Social Profissional
+183,27,AdministraÃ§Ã£o,Sim,53,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+184,52,SaÃºde,NÃ£o,44,Sim,Baixo,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+185,54,Marketing,NÃ£o,38,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+186,33,Pesquisa,Sim,36,Sim,Baixo,Moderada,DistÃºrbio do Sono Relacionado ao Trabalho
+187,25,Tecnologia,Sim,36,NÃ£o,Alto,Alta,Estresse Ocupacional Grave
+188,53,Rh,Sim,36,Sim,Alto,Nenhuma,SÃ­ndrome de Burnout
+189,22,SaÃºde,Sim,50,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+190,38,Atendimento,NÃ£o,50,Sim,Alto,Moderada,SÃ­ndrome de Burnout
+191,30,JurÃ­dico,NÃ£o,49,NÃ£o,Baixo,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+192,53,Tecnologia,NÃ£o,45,Sim,Moderado,Nenhuma,DistÃºrbio do Sono Relacionado ao Trabalho
+193,45,Vendas,Sim,58,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+194,32,Financeiro,NÃ£o,38,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+195,49,Financeiro,Sim,51,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
+196,25,Financeiro,NÃ£o,37,Sim,Moderado,Alta,DistÃºrbio do Sono Relacionado ao Trabalho
+197,40,Financeiro,Sim,35,NÃ£o,Moderado,Nenhuma,Fadiga Social Profissional
+198,32,JurÃ­dico,Sim,53,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+199,43,AdministraÃ§Ã£o,Sim,36,NÃ£o,Baixo,Nenhuma,Sem condiÃ§Ã£o diagnosticada
+200,23,Design,NÃ£o,55,NÃ£o,Moderado,Moderada,Impacto Emocional por DiscriminaÃ§Ã£o
