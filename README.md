@@ -56,13 +56,5 @@ O dashboard do Power BI apresenta:
 Estudante de Análise e Desenvolvimento de Sistemas — UNICID  
 Apaixonado por dados, tecnologia e projetos que impactam positivamente a sociedade.
 
----
-
-## Próximos Passos  
-- Adicionar novos datasets com foco em **saúde mental pós-pandemia**.  
-- Integrar dados do **Brasil e América Latina**.  
-- Criar uma **versão online interativa** do dashboard.  
-
----
 
 *Projeto desenvolvido como parte de estudo e prática em Power BI e análise de dados.*
